@@ -35,4 +35,4 @@ def text2speech(text_input):
         print(f"Exception:{e}")
         
 if __name__ == "__main__":
-    text2speech("Hello, my name is kajal kutri gu khae ")
+    text2speech("Hello, I am Sparta")
